@@ -1,0 +1,26 @@
+C:\Users\Willian\Desktop\Escola\DS\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\Willian\Desktop\Escola\DS\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\Willian\Desktop\Escola\DS\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\Willian\Desktop\Escola\DS\Teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\Willian\Desktop\Escola\DS\Teste\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\Willian\Desktop\Escola\DS\Teste\Teste\obj\Debug\Teste.frmcadastro.resources
+C:\Users\Willian\Desktop\Escola\DS\Teste\Teste\obj\Debug\Teste.frmcarro.resources
+C:\Users\Willian\Desktop\Escola\DS\Teste\Teste\obj\Debug\Teste.frmcaminhao.resources
+C:\Users\Willian\Desktop\Escola\DS\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\Willian\Desktop\Escola\DS\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\Willian\Desktop\Escola\DS\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Desktop\Escola\DS\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\Willian\Desktop\Escola\DS\Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\Lenovo\OneDrive - Etec Centro Paula Souza\Desktop\Teste\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\Lenovo\OneDrive - Etec Centro Paula Souza\Desktop\Teste\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\Lenovo\OneDrive - Etec Centro Paula Souza\Desktop\Teste\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\Lenovo\OneDrive - Etec Centro Paula Souza\Desktop\Teste\Teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Etec Centro Paula Souza\Desktop\Teste\Teste\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive - Etec Centro Paula Souza\Desktop\Teste\Teste\Teste\obj\Debug\Teste.frmcadastro.resources
+C:\Users\Lenovo\OneDrive - Etec Centro Paula Souza\Desktop\Teste\Teste\Teste\obj\Debug\Teste.frmcarro.resources
+C:\Users\Lenovo\OneDrive - Etec Centro Paula Souza\Desktop\Teste\Teste\Teste\obj\Debug\Teste.frmcaminhao.resources
+C:\Users\Lenovo\OneDrive - Etec Centro Paula Souza\Desktop\Teste\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive - Etec Centro Paula Souza\Desktop\Teste\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Etec Centro Paula Souza\Desktop\Teste\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Etec Centro Paula Souza\Desktop\Teste\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\Lenovo\OneDrive - Etec Centro Paula Souza\Desktop\Teste\Teste\Teste\obj\Debug\Teste.pdb
